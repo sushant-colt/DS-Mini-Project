@@ -1,4 +1,3 @@
-Content is user-generated and unverified.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
